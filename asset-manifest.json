@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mickcaff/static/css/main.9f088a99.css",
+    "main.js": "/mickcaff/static/js/main.840e148f.js",
+    "index.html": "/mickcaff/index.html",
+    "main.9f088a99.css.map": "/mickcaff/static/css/main.9f088a99.css.map",
+    "main.840e148f.js.map": "/mickcaff/static/js/main.840e148f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.840e148f.js"
+  ]
+}
